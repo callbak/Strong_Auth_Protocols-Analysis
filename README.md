@@ -3,7 +3,7 @@
 # Table des matières
 
 1. [Description](#description)
-2. [Installation & Exécution](#-installation-exécution)
+2. [Installation et Exécution](#installation-et-exécution)
    1. [Méthode 1](#méthode-1)
    2. [Méthode 2](#méthode-2)
 3. [Résultats](#-résultats)
@@ -20,7 +20,7 @@ Les protocoles ont été testés sous une machine virtuelle Ubuntu avec SPAN. Le
 
 ---
 
-## Installation , Exécution
+## Installation et Exécution
 ### Méthode 1
 #### Cloner le dépôt
 ```bash
