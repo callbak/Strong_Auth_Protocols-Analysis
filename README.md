@@ -3,10 +3,10 @@
 # Table des matières
 
 1. [Description](#description)
-2. [🚀 Installation & Exécution](#-installation-exécution)
+2. [Installation & Exécution](#-installation-et-exécution)
    1. [Méthode 1](#méthode-1)
    2. [Méthode 2](#méthode-2)
-3. [🔍 Résultats](#-résultats)
+3. [Résultats](#-résultats)
 
 
 ## Description
@@ -20,7 +20,7 @@ Les protocoles ont été testés sous une machine virtuelle Ubuntu avec SPAN. Le
 
 ---
 
-## 🚀 Installation & Exécution
+## Installation et Exécution
 ### Méthode 1
 #### Cloner le dépôt
 ```bash
@@ -52,7 +52,7 @@ Remplacez `strong_asymmetric_authentication.hlpsl` par le fichier souhaité.
 
 ---
 
-## 🔍 Résultats
+## Résultats
 - **Authentification asymétrique forte** ✅ (Système sûr)
   - ![sa_asymm](https://github.com/user-attachments/assets/f7a097e9-0d53-46f8-816a-1a27096b2f51)
 - **Authentification symétrique forte** ✅ (Système sûr)
